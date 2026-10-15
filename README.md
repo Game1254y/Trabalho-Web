@@ -4,10 +4,6 @@
 
 O Bem Estar Fitness é um projeto desenvolvido em HTML5 e CSS3 para apresentar uma academia localizada em Três Lagoas – MS. O site divulga a estrutura da academia, os treinos oferecidos, os planos, os horários de funcionamento e as informações de contato.
 
-## Prévia visual do projeto
-
-![Prévia do site Bem Estar Fitness](imagens/preview.png)
-
 ## Integrantes do grupo
 
 - Guilherme Quintino Dos Santos
